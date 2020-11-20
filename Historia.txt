@@ -1,2 +1,4 @@
-esta es una pruba de la git 
-y su utilizacion
+esta es una pruEba de la git 
+y su utilizacion 
+
+para ver como se utiliza 
