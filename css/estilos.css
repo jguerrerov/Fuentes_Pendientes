@@ -10,3 +10,10 @@ container{
     border:3px solid #004210;
     margin: 9 auto;
 }
+
+#cabecera
+{
+background-color: deeppink;
+color: firebrick;
+
+}
